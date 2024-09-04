@@ -23,9 +23,7 @@ const Home = ()=> {
                   </div>
               </div>
             </div>
-            <div className="h-full">
-              <Animation /> 
-              </div>
+            
           </div>
         </div>
       </section>
